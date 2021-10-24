@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb65eb07-69be-4a39-b2c4-0a0dfb88038a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1zuzH26hhbgY7ytBPI91Issx2n3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test-blog" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/users" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="dump" />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="cb65eb07-69be-4a39-b2c4-0a0dfb88038a" name="Default Changelist" comment="" />
+      <created>1635012669534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635057945346</updated>
+      <workItem from="1635012670668" duration="4196000" />
+      <workItem from="1635050730601" duration="6272000" />
+    </task>
+    <task active="true" id="LOCAL-00001">
+      <created>1635057941679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635057945346</updated>
+      <workItem from="1635057946264" duration="8773000" />
+      <workItem from="1635073633249" duration="12281000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635057191332">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="414" y="208" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635057191332" />
+    <state x="684" y="203" width="530" height="730" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1635057434058">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="684" y="203" width="530" height="730" key="#com.intellij.ide.macro.MacrosDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635057434058" />
+    <state x="639" y="280" width="630" height="568" key="#com.intellij.tools.ToolEditorDialog" timestamp="1635057442189">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="639" y="280" width="630" height="568" key="#com.intellij.tools.ToolEditorDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635057442189" />
+    <state x="626" y="418" width="656" height="306" key="ComposerCompositePathDialog" timestamp="1635058997362">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="626" y="418" width="656" height="306" key="ComposerCompositePathDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635058997362" />
+    <state x="100" y="135" width="1720" height="845" key="DiffContextDialog" timestamp="1635058903872">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="100" y="135" width="1720" height="845" key="DiffContextDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635058903872" />
+    <state x="690" y="258" width="530" height="605" key="FileChooserDialogImpl" timestamp="1635103323810">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="690" y="258" width="530" height="605" key="FileChooserDialogImpl/0.35.1920.1045@0.35.1920.1045" timestamp="1635103323810" />
+    <state x="707" y="467" width="496" height="188" key="NewPhpFileDialog" timestamp="1635100511835">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="707" y="467" width="496" height="188" key="NewPhpFileDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635100511835" />
+    <state x="329" y="98" width="1269" height="912" key="SettingsEditor" timestamp="1635064164359">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="329" y="98" width="1269" height="912" key="SettingsEditor/0.35.1920.1045@0.35.1920.1045" timestamp="1635064164359" />
+    <state x="833" y="465" width="244" height="192" key="SimpleOpenTaskDialog" timestamp="1635057945384">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="833" y="465" width="244" height="192" key="SimpleOpenTaskDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635057945384" />
+    <state x="730" y="440" width="457" height="234" key="SymfonyPathDialog" timestamp="1635059012368">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="730" y="440" width="457" height="234" key="SymfonyPathDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635059012368" />
+    <state x="528" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1635073632722">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="528" y="346" key="com.intellij.ide.util.TipDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635073632722" />
+    <state x="820" y="450" width="277" height="214" key="com.jetbrains.php.framework.generators.custom.CustomFrameworkDialog" timestamp="1635058949504">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="820" y="450" width="277" height="214" key="com.jetbrains.php.framework.generators.custom.CustomFrameworkDialog/0.35.1920.1045@0.35.1920.1045" timestamp="1635058949504" />
+    <state width="752" height="383" key="javadoc.popup" timestamp="1635057103107">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="752" height="383" key="javadoc.popup/0.35.1920.1045@0.35.1920.1045" timestamp="1635057103107" />
+    <state x="540" y="250" width="840" height="1034" key="run.anything.popup" timestamp="1635100349042">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="540" y="250" width="840" height="1034" key="run.anything.popup/0.35.1920.1045@0.35.1920.1045" timestamp="1635100349042" />
+  </component>
+</project>
