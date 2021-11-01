@@ -20,6 +20,7 @@ include 'partials/header.php';
         <table class="table">
             <thead>
             <tr>
+                <th>عکس</th>
                 <th>نام</th>
                 <th>نام کاربری</th>
                 <th>ایمیل</th>
@@ -31,6 +32,10 @@ include 'partials/header.php';
             <tbody>
             <?php foreach ($users as $user): ?>
                 <tr>
+                    <td><?php if (isset($user['extention'])):?>
+                        <img style="width: 60px" src="<?php echo "users/images/${user['id']}.${user['extention']}" ?>" alt="">
+                        <?php endif; ?>
+                        </td>
                     <td><?php echo $user['name'] ?></td>
                     <td><?php echo $user['username'] ?></td>
                     <td><?php echo $user['email'] ?></td>

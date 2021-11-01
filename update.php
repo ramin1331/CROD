@@ -7,8 +7,6 @@ if (!isset($_GET['id'])) {
     exit;
 }
 $userId = $_GET['id'];
-
-
 $user = getUsersById ($userId);
 if (!$user) {
   include 'partials/not_found.php';
@@ -16,7 +14,8 @@ if (!$user) {
 }
 if ($_SERVER['REQUEST_METHOD'] === 'POST'){
    $user =array_merge ($user ,$_POST);
-   $user =updateUser ($_POST, $userId);
+   $user = updateUser ($_POST, $userId);
+   uploadImage($_FILES['picture'] ,$user);
     header("Location: index.php");
 }
 ?>
